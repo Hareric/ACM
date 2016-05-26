@@ -1,4 +1,16 @@
 // 回溯法 0-1 背包问题
+/*
+Description
+请用回溯法解0-1背包问题
+
+Input
+第一行是物品数量n和背包总容量C
+第二行是n件物品的价值
+第三行是n件物品的重量
+
+Output
+输出背包的最大价值
+*/
 #include <stdio.h>
 #include <iostream>
 #include <algorithm>
