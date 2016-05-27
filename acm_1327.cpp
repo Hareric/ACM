@@ -63,7 +63,7 @@ void backTrack(int* arr, int i, int &len, bool &hasResult)
         swap(arr[i], arr[t]);
         if (isInOblique(arr, i, arr[i]))
         {
-            swap(arr[t], arr[i]);
+            swap(arr[t], arr[i]);  // 回溯
             continue;
         }
         backTrack(arr, i+1, len, hasResult);
