@@ -42,13 +42,10 @@ void backTrack(int t)
 
     if (t>n)
     {
-        
         if (currentPower>maxPower)
             maxPower = currentPower;
         return;
     }
-
-    
     for (int i=t; i<=n; i++)
     {
         swap(allRang[i], allRang[t]);
