@@ -83,15 +83,3 @@ int main()
     cout<<maxPower<<endl;
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
