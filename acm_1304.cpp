@@ -44,9 +44,7 @@ void backTrack(int t)
     {
         
         if (currentPower>maxPower)
-        {
             maxPower = currentPower;
-        }
         return;
     }
 
