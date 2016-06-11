@@ -1,7 +1,6 @@
 /*
 最优服务次序问题
 Time Limit: 1000MS	Memory Limit: 32768K
-Total Submission(s): 263	Accepted: 49
 Description
 设有n 个顾客同时等待一项服务。顾客i需要的服务时间为ti，1≤i≤n。应如何安排n 个顾客的服务次序才能使平均等待时间达到最小?平均等待时间是 n 个顾客等待服务时间的 总和除以n。 对于给定的n个顾客需要的服务时间，计算最优服务次序。	
 Input
