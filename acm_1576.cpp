@@ -1,3 +1,30 @@
+/*
+逆序对
+Time Limit: 1000MS	Memory Limit: 65536K
+
+Description
+对于一个包含N个非负整数的数组A[1..n]，如果有i < j，且A[ i ]>A[ j ]，则称(A[ i] ,A[ j] )为数组A中的一个逆序对。
+例如，数组（3，1，4，5，2）的逆序对有(3,1),(3,2),(4,2),(5,2)，共4个。
+  给定一个数组，求该数组中包含多少个逆序对。
+  要求时间复杂度为nlog(n)
+
+Input
+第一行，一个数字n，表示有n个数字。
+第二行n个整数。
+
+Output
+输出这n个整数组成的数组的逆序数。
+
+Sample Input
+5
+3 1 4 5 2
+
+Sample Output
+4
+
+解题思路：
+    使用归并排序的思想，在归并的同时统计逆序对数。
+*/
 #include <stdio.h>
 #include <iostream>
 using namespace std;
@@ -63,11 +90,3 @@ int main()
 //        cout << sortArr[i] << " ";
     cout << inversePairNum  << endl;
 }
-
-
-
-
-
-
-
-
