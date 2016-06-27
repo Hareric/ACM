@@ -51,7 +51,7 @@ void mergeArr(int arrTwo[], int arrOne[], int left, int mid, int right)
 int main()
 {
     int a[] = {2,123,4,132,4515,1,1341,-4,413,51};
-    int b[9];
+    int b[10];
     mergeSort(a, b, 0, 9);
     for (int i=0; i<10; i++)
         cout<<b[i]<<" ";
