@@ -15,6 +15,7 @@ void hanoi(char a, char b, char c, int n)
 		hanoi(b, a, c, n-1);  // 最后将b柱剩余的n-1个板移动至c柱上
 	}
 } 
+
 int main()
 {
 	hanoi('A', 'B', 'C', 10);
