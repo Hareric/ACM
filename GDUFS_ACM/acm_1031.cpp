@@ -1,20 +1,16 @@
 /*
 Description
 设X[0:n-1]和Y[0:n-1]为两个数组，每个数组中含有n个已排好序的数。试设计一个O（logn）时间算法，找出X和Y的2n个数的中位数
-
 Input
 第一行： n，为x和y数组的元素个数
 第二行： x数组的n个数，用空格分隔
 第三行： y数组的n个数，用空格分隔
-
-Output
+Output 
 中位数两个，用空格分隔
-
 Sample Input
 4
 1 2 6 20
 2 8 9 10
-
 Sample Output
 6 8
 */
