@@ -5,7 +5,7 @@ Input
 第一行： n，为x和y数组的元素个数
 第二行： x数组的n个数，用空格分隔
 第三行： y数组的n个数，用空格分隔
-Output
+Output 
 中位数两个，用空格分隔
 Sample Input
 4
