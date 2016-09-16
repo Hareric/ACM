@@ -4,8 +4,8 @@
 该文件夹用来记录在LintCode上学习的代码
 
 ## 目录
-Number of Islands ------------- 433  
+Number of Island  @16.9.14
 
-Ugly Number ------------------- 517
+Ugly Number @16.9.16
 
-Ugly Number II ---------------- 4
+Ugly Number II  @16.9.16
