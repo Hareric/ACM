@@ -7,3 +7,5 @@
 Number of Islands ------------- 433  
 
 Ugly Number ------------------- 517
+
+Ugly Number II ---------------- 4
