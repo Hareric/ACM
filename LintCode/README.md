@@ -15,4 +15,6 @@ Super Ugly Number  @16.9.18
 
 Rotate List  @16.9.22
 
- Combination Sum II  @16.9.23
+Combination Sum II  @16.9.23
+
+Valid Parentheses  @16.9.26
