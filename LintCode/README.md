@@ -20,3 +20,5 @@ Combination Sum II  @16.9.23
 Valid Parentheses  @16.9.26
 
 Longest Substring Without Repeating Characters  @16.9.27
+
+Longest Increasing Subsequence  @16.9.28
