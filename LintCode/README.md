@@ -22,3 +22,5 @@ Valid Parentheses  @16.9.26
 Longest Substring Without Repeating Characters  @16.9.27
 
 Longest Increasing Subsequence  @16.9.28
+
+ Flatten Nested List Iterator  @16.9.29
