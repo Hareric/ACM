@@ -26,3 +26,5 @@ Longest Increasing Subsequence  @16.9.28
 Flatten Nested List Iterator  @16.9.29
  
 Add and Search Word  @16.10.03
+
+Partition List  @16.10.04
