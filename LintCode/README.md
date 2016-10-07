@@ -28,3 +28,5 @@ Flatten Nested List Iterator  @16.9.29
 Add and Search Word  @16.10.03
 
 Partition List  @16.10.04
+
+House Robber III  @16.10.07
