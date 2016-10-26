@@ -45,4 +45,8 @@ Unique Paths II  @16.10.19
 
 Palindrome Linked List @16.10.20
 
-Convert Sorted List to Balanced BST  @16.10.21
+Convert Sorted List to Balanced BST    @16.10.21 
+
+Cosine Similarity  @16.10.26
+
+
