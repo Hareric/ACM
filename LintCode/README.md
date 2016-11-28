@@ -72,3 +72,7 @@ Add Two Numbers  @16.11.17
 Graph Valid Tree  @16.11.20
 
 Single Number  @16.11.21
+
+Single Number II  @16.11.28
+
+Single Number III  @16.11.28
