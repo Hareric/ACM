@@ -86,3 +86,9 @@ Partition Array  @16.12.01
 Wood Cut  @16.12.03
 
 Interleaving String  @16.12.07
+
+Segment Tree Build  @16.12.08
+
+Segment Tree Query  @16.12.09
+
+Segment Tree Modify  @16.12.09
