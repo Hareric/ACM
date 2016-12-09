@@ -1,10 +1,9 @@
 # Lintcode
 
-## 代码说明
+## Introduction
 该文件夹用来记录在LintCode上学习的代码
 
-## 学习记录  
-
+## Record
 Number of Island  @16.9.14
 
 Ugly Number @16.9.16
