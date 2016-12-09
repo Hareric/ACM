@@ -1,7 +1,7 @@
 # Lintcode
 
 ## Introduction
-该文件夹用来记录在LintCode上学习的代码
+该文件夹用来记录在LintCode上AC的代码
 
 ## Record
 Number of Island  @16.9.14
