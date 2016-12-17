@@ -93,3 +93,5 @@ Segment Tree Query  @16.12.09
 Segment Tree Modify  @16.12.09
 
 Segment Tree Query II  @16.12.11
+
+Merge Intervals  @16.12.17
