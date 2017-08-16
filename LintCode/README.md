@@ -105,3 +105,5 @@ Subsets  @17.02.06
 Subsets II  @17.02.06
 
 Valid Palindrome  @17.02.16
+
+132 Pattern @17.08.16
