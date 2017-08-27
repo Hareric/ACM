@@ -117,3 +117,5 @@ Add Two numbers II @17.08.17
 Anagrams  @17.08.17
 
 Backpack II  @17.08.17
+
+Backpack VI  @17.08.27
