@@ -119,3 +119,7 @@ Anagrams  @17.08.17
 Backpack II  @17.08.17
 
 Backpack VI  @17.08.27
+
+Best Time to Buy and Sell Stock II  @17.08.28
+
+Best Time to Buy and Sell Stock III  @17.08.28
