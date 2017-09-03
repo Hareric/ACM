@@ -135,3 +135,5 @@ Coins in a Line  @17.08.31
 Coins in a Line II  @17.08.31
 
 Construct Binary Tree from Inorder and Postorder Traversal  @17.09.01
+
+Construct Binary Tree from Preorder and Inorder Traversal  @17.09.03
