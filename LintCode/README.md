@@ -159,3 +159,5 @@ Longest Increasing Continuous Subsequence  @18.03.30
 Convert Palindrome  @18.03.31
 
 Count and Say  @18.04.02
+
+Trailing Zeros  @18.04.02
