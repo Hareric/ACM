@@ -161,3 +161,5 @@ Convert Palindrome  @18.03.31
 Count and Say  @18.04.02
 
 Trailing Zeros  @18.04.02
+
+Maximum Size Subarray Sum Equals k  @18.04.16
